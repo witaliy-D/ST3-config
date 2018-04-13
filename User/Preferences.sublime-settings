@@ -1,0 +1,17 @@
+{
+	"auto_complete": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/Notepad++.tmTheme",
+	"font_size": 14,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"margin": 2,
+	"save_on_focus_lost": true,
+	"theme": "Soda Light 3.sublime-theme",
+	"word_wrap": false
+}

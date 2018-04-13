@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"auto-save",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"CSS3",
+		"EditorConfig",
+		"Emmet",
+		"Goto-CSS-Declaration",
+		"LESS",
+		"LiveReload",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"Theme - Soda"
+	]
+}
